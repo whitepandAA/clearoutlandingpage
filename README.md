@@ -1,2 +1,5 @@
 # clearoutlandingpage
-basic landing page
+carousel not working 
+footer missing missing
+not responsive
+
